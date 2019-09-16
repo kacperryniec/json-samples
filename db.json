@@ -1,11 +1,133 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Date": "30 kwietnia 2019",
+    "Special": {
+        "Soups": [
+            {
+                "Id": "c76246a5-26e4-4f3e-be7d-d3f764d9dd4d",
+                "Title": " węgierska",
+                "Rating": 0
+            },
+            {
+                "Id": "5cb1b4ba-b9d3-451d-a824-d850783cf9cd",
+                "Title": " krem kalafiorowo-kokosowy z płatkami migdałowymi",
+                "Rating": 0
+            }
+        ],
+        "Mains": [
+            {
+                "Id": "e26d2adf-761c-4173-b155-86dfb8363a89",
+                "Title": " schabowy w sosie greckim",
+                "Rating": 0
+            },
+            {
+                "Id": "942ddf06-9dad-4c57-ad3a-9b22b9b0c862",
+                "Title": " kurczak w cieście serowym",
+                "Rating": 0
+            }
+        ],
+        "Salads": [
+            {
+                "Id": "850c05ab-5f07-433d-8347-62e61ef3fa3e",
+                "Title": " zestaw surówek",
+                "Rating": 0
+            },
+            {
+                "Id": "6bef9f73-6506-4e08-975e-57a564d44ab5",
+                "Title": " warzywa gotowane na parze",
+                "Rating": 0
+            }
+        ],
+        "Extras": [
+            {
+                "Id": "3a810788-a580-4515-9c83-29f227ac597a",
+                "Title": " ryż ze szpinakiem",
+                "Rating": 0
+            },
+            {
+                "Id": "24b7a768-6dea-49df-a197-dba9140bb44c",
+                "Title": " ziemniaki gotowane",
+                "Rating": 0
+            }
+        ]
+    },
+    "Daily": {
+        "Mains": [
+            {
+                "Id": "b1d07ac3-d304-4347-a560-5f5d11966c5b",
+                "Title": "kurczak w cieście serowym",
+                "Rating": 0
+            },
+            {
+                "Id": "a37f954b-4b34-45ef-9e35-9ea9c82339e4",
+                "Title": "makaron carbonara",
+                "Rating": 0
+            },
+            {
+                "Id": "a250f1a8-559a-4d25-a454-14adf666f2b1",
+                "Title": "gołąbki z mięsem w sosie pieczarkowym",
+                "Rating": 0
+            },
+            {
+                "Id": "a1bed286-38de-4258-aff6-0ea01ed0c254",
+                "Title": "placuszki serowe na słodko",
+                "Rating": 0
+            },
+            {
+                "Id": "2f23215d-3ea3-4cc2-9bb3-322f6f1f5e18",
+                "Title": "gouda panierowana",
+                "Rating": 0
+            },
+            {
+                "Id": "bbb7e6a0-7564-4eed-93eb-c313d809265a",
+                "Title": "wrapy wege",
+                "Rating": 0
+            }
+        ],
+        "Salads": [
+            {
+                "Id": "d086a1d9-affa-48c7-b4a0-e7ac3c796018",
+                "Title": "grecka",
+                "Rating": 0
+            },
+            {
+                "Id": "01b25222-453f-47fb-8af0-381614a74037",
+                "Title": "kapusta biała",
+                "Rating": 0
+            },
+            {
+                "Id": "ef505870-a0d0-4787-9631-98dd7a4d3b53",
+                "Title": "marchewka z jabłkiem",
+                "Rating": 0
+            }
+        ],
+        "Extras": [
+            {
+                "Id": "0ecc8539-bb63-4af0-8690-99f193b21e15",
+                "Title": "ziemniaki gotowane",
+                "Rating": 0
+            },
+            {
+                "Id": "38c3a7e9-89e4-469b-a6f7-ea5a8b49f0c7",
+                "Title": "frytki",
+                "Rating": 0
+            },
+            {
+                "Id": "46fbcd32-cc66-4a61-ac5d-3b2e26124cb0",
+                "Title": "ryż ze szpinakiem",
+                "Rating": 0
+            },
+            {
+                "Id": "682847b6-a1ad-4a03-bbbf-b59e50b4afc1",
+                "Title": "frytki",
+                "Rating": 0
+            }
+        ]
+    },
+    "RestaurantName": "zielinskiego-22",
+    "id": "ef0cad72-16f5-4043-a130-6308a46d4c19",
+    "_rid": "3G4LAL3HZZ4MAAAAAAAAAA==",
+    "_self": "dbs/3G4LAA==/colls/3G4LAL3HZZ4=/docs/3G4LAL3HZZ4MAAAAAAAAAA==/",
+    "_etag": "\"0400da86-0000-0c00-0000-5cc84f060000\"",
+    "_attachments": "attachments/",
+    "_ts": 1556631302
 }
